@@ -1,1 +1,2 @@
+it time to go
 how to add a document to git?
